@@ -42,5 +42,6 @@ public class MySimpleStackTest extends TestCase {
         stack.push(item3);
         assertEquals(item,stack.pop());
         assertEquals(item2,stack.peek());
+
     }
 }
