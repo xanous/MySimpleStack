@@ -32,6 +32,7 @@ public class MySimpleStackTest extends TestCase {
 
     }
     //Exigence 3
+
     public void testPop() throws Exception {
         MySimpleStack stack = new MySimpleStack(10);
         Item item = new Item();
